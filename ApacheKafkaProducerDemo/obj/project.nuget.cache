@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GjVu8HWKN+EgyrG7X7qRi1Jvp5nh/ILZbtwhzRaoLhQvtDo1JPRw2wZ2eODK30YZIc0+6qWa1WrbgUdkHwWPTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Prince.DELLINSPIRON\\source\\repos\\ApacheKafkaDemo\\ApacheKafkaProducerDemo\\ApacheKafkaProducerDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Prince.DELLINSPIRON\\.nuget\\packages\\confluent.kafka\\1.9.0\\confluent.kafka.1.9.0.nupkg.sha512",
+    "C:\\Users\\Prince.DELLINSPIRON\\.nuget\\packages\\librdkafka.redist\\1.9.0\\librdkafka.redist.1.9.0.nupkg.sha512",
+    "C:\\Users\\Prince.DELLINSPIRON\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
